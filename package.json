@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "inquirer": "^9.2.15"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
